@@ -6,6 +6,10 @@ section {
   text-align: center;
 }
 
+footer {
+  text-align: right;
+}
+
 .background {
   background-color: black;
 }
@@ -36,4 +40,8 @@ section {
 
 .icon {
   margin-top: 40px;
+}
+
+.copyright {
+  color: gray;
 }
