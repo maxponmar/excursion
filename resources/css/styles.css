@@ -20,6 +20,7 @@ section {
 .download {
   color: aquamarine;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .subtitle {
